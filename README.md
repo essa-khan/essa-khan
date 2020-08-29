@@ -5,7 +5,6 @@
 ##### STEM Mentor
 
 <br />
-<br />
 
 ---
 
@@ -14,7 +13,6 @@
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/essa-khan/)
 [<img align="left" alt="medium | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@essa.khan)
 
-<br />
 <br />
 
 ---
