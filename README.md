@@ -1,4 +1,4 @@
-### I am actively seeking for a Security/Software Engineer internship for Summer 2021.
+### I am actively seeking for a Security/Software Engineer Internship for Summer 2021.
 
 ##### - Software Developer Intern @ State Farm
 ##### - Cybersecurity Student and Security Researcher @ Illinois State University
