@@ -1,8 +1,8 @@
 ### I am actively seeking for a Security/Software Engineer Internship for Summer 2021.
 
-##### &nbsp; ∙ Software Developer Intern @ State Farm
-##### &nbsp; ∙ Cybersecurity Student and Researcher @ Illinois State University
-##### &nbsp; ∙ STEM Mentor
+##### &nbsp;&nbsp;&nbsp; ∙ Software Developer Intern @ State Farm
+##### &nbsp;&nbsp;&nbsp; ∙ Cybersecurity Student and Researcher @ Illinois State University
+##### &nbsp;&nbsp;&nbsp; ∙ STEM Mentor
 
 ---
 
