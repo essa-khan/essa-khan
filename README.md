@@ -1,5 +1,6 @@
-#### Security Engineer Intern @ Verizon
-#### Former Software Developer Intern @ State Farm
+#### Security Engineer Intern @ Intel
+#### Former Security Engineer Intern @ Verizon
+#### Former Software Engineer Intern @ State Farm
 #### Cybersecurity Student and Researcher @ Illinois State University
 
 ---
